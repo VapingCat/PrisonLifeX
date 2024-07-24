@@ -1,0 +1,40 @@
+{
+  "FFlagClanTags": [
+    {
+      "group_id": 8904399,
+      "chat_tag": "T2W",
+      "tag_color": [70, 0, 0],
+      "min_rank": 252
+    },
+    {
+      "group_id": 12338553,
+      "chat_tag": "P2G",
+      "tag_color": [255, 0, 0],
+      "min_rank": 252
+    },
+    {
+      "group_id": 34623604,
+      "chat_tag": "SEN",
+      "tag_color": [255, 0, 89],
+      "min_rank": 2
+    },
+    {
+      "group_id": 7859452,
+      "chat_tag": "PLX",
+      "tag_color": [255, 255, 0],
+      "min_rank": 1
+    },
+    {
+      "group_id": 7859452,
+      "chat_tag": "Tester",
+      "tag_color": [0, 157, 255],
+      "min_rank": 5
+    },
+    {
+      "group_id": 15289165,
+      "chat_tag": "42k",
+      "tag_color": [244, 70, 135],
+      "min_rank": 2
+    }
+  ]
+}
