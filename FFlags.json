@@ -36,5 +36,6 @@
       "tag_color": [244, 70, 135],
       "min_rank": 2
     }
-  ]
+  ],
+  "FFlagDeltaCheck": true
 }
