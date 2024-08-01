@@ -20,15 +20,21 @@
     },
     {
       "group_id": 7859452,
-      "chat_tag": "PLX",
-      "tag_color": [255, 255, 0],
-      "min_rank": 1
-    },
-    {
-      "group_id": 7859452,
       "chat_tag": "Tester",
       "tag_color": [0, 157, 255],
       "min_rank": 5
+    },
+    {
+      "group_id": 7859452,
+      "chat_tag": "Moderator",
+      "tag_color": [143, 16, 165],
+      "min_rank": 251
+    },
+    {
+      "group_id": 7859452,
+      "chat_tag": "Admin",
+      "tag_color": [13, 105, 172],
+      "min_rank": 252
     },
     {
       "group_id": 15289165,
