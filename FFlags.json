@@ -4,7 +4,7 @@
       "group_id": 8904399,
       "chat_tag": "T2W",
       "tag_color": [70, 0, 0],
-      "min_rank": 252
+      "min_rank": 2
     },
     {
       "group_id": 12338553,
@@ -38,7 +38,7 @@
     },
     {
       "group_id": 15289165,
-      "chat_tag": "42k",
+      "chat_tag": "42K",
       "tag_color": [244, 70, 135],
       "min_rank": 2
     }
